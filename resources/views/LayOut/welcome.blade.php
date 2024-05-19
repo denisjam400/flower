@@ -1,0 +1,10 @@
+<section>
+    @include('Component.FirstSlider')
+    @include('Component.Categories')
+    @include('Component.HomePageProduct')
+    @include('Component.Deal')
+    @include('Component.Display')
+    @include('LayOut.newsletter')
+    @include('LayOut.Blog')
+    @include('Component.BrandImage')
+</section>
